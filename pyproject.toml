@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pysnmplib"
+name = "pysnmp"
 version = "5.0.17"
 description = ""
 authors = ["omrozowicz <omrozowicz@splunk.com>", "rfaircloth-splunk <rfaircloth@splunk.com>"]
